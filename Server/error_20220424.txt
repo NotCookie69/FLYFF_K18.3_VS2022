@@ -1,0 +1,22 @@
+2022/ 4/24   19:59:28   TRANS : is not alive
+
+2022/ 4/24   19:59:35   CORE : is not alive
+
+2022/ 4/24   20:00:03   TRANS : is not alive
+
+2022/ 4/24   20:00:38   CORE : is not alive
+
+2022/ 4/24   20:01:24   TRANS : is not alive
+
+2022/ 4/24   20:01:26   CORE : is not alive
+
+2022/ 4/24   20:05:07   TRANS : is not alive
+
+2022/ 4/24   20:08:54   CORE : is not alive
+
+2022/ 4/24   20:11:58   TRANS : is not alive
+
+2022/ 4/24   20:12:14   CORE : is not alive
+
+2022/ 4/24   20:12:38   TRANS : is not alive
+
